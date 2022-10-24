@@ -1,0 +1,7 @@
+
+
+<app-header></app-header>
+
+<app-quiz [questions]="(questions | async)" [position]="position" ></app-quiz>
+<p>{{position}}</p>
+<app-footer [onChangePage]="handlePagination" [paginations]="(questions | async)?.length" ></app-footer>

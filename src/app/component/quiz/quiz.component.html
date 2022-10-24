@@ -1,0 +1,6 @@
+<main class="flex-shrink-0">
+    <div class="container">
+        <app-question *ngIf="questions" [question]="questions[position].question" ></app-question>
+        <app-answer *ngIf="questions" [answers]="questions[position].answers" ></app-answer>
+    </div>
+</main>

@@ -1,0 +1,127 @@
+{
+    "quiz": {
+        "configuration": [],
+        "questions": [
+            {
+                "question": "What is the scientific name of a butterfly?",
+                "answers": [
+                    {"text":"Apis"},
+                    {"text":"Coleoptera"},
+                    {"text":"Formicidae"},
+                    {"text":"Rhopalocera"}
+                    ],
+                "setted": null
+            },
+            {
+                "question": "How hot is the surface of the sun?",
+                "answers": [
+                    {"text":"1,233 K"},
+                    {"text":"5,778 K"},
+                    {"text":"12,130 K"},
+                    {"text":"101,300 K"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "Who are the actors in The Internship?",
+                "answers": [
+                    {"text":"Ben Stiller, Jonah Hill"},
+                    {"text":"Courteney Cox, Matt LeBlanc"},
+                    {"text":"Kaley Cuoco, Jim Parsons"},
+                    {"text":"Vince Vaughn, Owen Wilson"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "What is the capital of Spain?",
+                "answers": [
+                    {"text":"Berlin"},
+                    {"text":"Buenos Aires"},
+                    {"text":"Madrid"},
+                    {"text":"San Juan"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "What are the school colors of the University of Texas at Austin?",
+                "answers": [
+                    {"text":"Black, Red"},
+                    {"text":"Blue, Orange"},
+                    {"text":"White, Burnt Orange"},
+                    {"text":"White, Old gold, Gold"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "What is 70 degrees Fahrenheit in Celsius?",
+                "answers": [
+                    {"text":"18.8889"},
+                    {"text":"20"},
+                    {"text":"21.1111"},
+                    {"text":"158"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "When was Mahatma Gandhi born?",
+                "answers": [
+                    {"text":"October 2, 1869"},
+                    {"text":"December 15, 1872"},
+                    {"text":"July 18, 1918"},
+                    {"text":"January 15, 1929"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "How far is the moon from Earth?",
+                "answers": [
+                    {"text":"7,918 miles (12,742 km)"},
+                    {"text":"86,881 miles (139,822 km)"},
+                    {"text":"238,400 miles (384,400 km)"},
+                    {"text":"35,980,000 miles (57,910,000 km)"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "What is 65 times 52?",
+                "answers": [
+                    {"text":"117"},
+                    {"text":"3120"},
+                    {"text":"3380"},
+                    {"text":"3520"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "How tall is Mount Everest?",
+                "answers": [
+                    {"text":"6,683 ft (2,037 m)"},
+                    {"text":"7,918 ft (2,413 m)"},
+                    {"text":"19,341 ft (5,895 m)"},
+                    {"text":"29,029 ft (8,847 m)"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "When did The Avengers come out?",
+                "answers": [
+                    {"text":"May 2, 2008"},
+                    {"text":"May 4, 2012"},
+                    {"text":"May 3, 2013"},
+                    {"text":"April 4, 2014"}
+                ],
+                "setted": null
+            },
+            {
+                "question": "What is 48,879 in hexidecimal?",
+                "answers": [
+                    {"text":"0x18C1"},
+                    {"text":"0xBEEF"},
+                    {"text":"0xDEAD"},
+                    {"text":"0x12D591"}
+                ],
+                "setted": null
+            }
+        ]
+    }
+}

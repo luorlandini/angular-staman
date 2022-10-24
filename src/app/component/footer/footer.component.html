@@ -1,0 +1,13 @@
+<footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
+      <span class="text-muted">{{paginations}}</span>
+
+      <nav aria-label="Page navigation example">
+        <ul class="pagination">
+          <li  *ngFor='let item of numbersItem; let i = index' class="page-item">
+              <a (click)="onChangePage(item)" class="page-link" >{{item}}</a>
+        </li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
